@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\bin\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\TH-lop-hinh-chu-nhat\obj\Debug\netcoreapp3.1\TH-lop-hinh-chu-nhat.genruntimeconfig.cache

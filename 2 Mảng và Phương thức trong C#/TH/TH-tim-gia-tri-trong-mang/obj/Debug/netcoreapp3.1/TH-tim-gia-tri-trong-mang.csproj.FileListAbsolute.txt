@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-trong-mang\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-trong-mang.genruntimeconfig.cache

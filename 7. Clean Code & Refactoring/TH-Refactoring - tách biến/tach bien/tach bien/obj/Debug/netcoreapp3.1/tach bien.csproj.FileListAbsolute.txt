@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\bin\Debug\netcoreapp3.1\tach bien.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\bin\Debug\netcoreapp3.1\tach bien.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\bin\Debug\netcoreapp3.1\tach bien.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\bin\Debug\netcoreapp3.1\tach bien.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\bin\Debug\netcoreapp3.1\tach bien.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\bin\Debug\netcoreapp3.1\tach bien.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\obj\Debug\netcoreapp3.1\tach bien.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\obj\Debug\netcoreapp3.1\tach bien.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\obj\Debug\netcoreapp3.1\tach bien.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\obj\Debug\netcoreapp3.1\tach bien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\obj\Debug\netcoreapp3.1\tach bien.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\obj\Debug\netcoreapp3.1\tach bien.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\TH-Refactoring - tách biến\tach bien\tach bien\obj\Debug\netcoreapp3.1\tach bien.genruntimeconfig.cache

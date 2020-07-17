@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\bin\Debug\netcoreapp3.1\TH-triển-khai-interface.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\bin\Debug\netcoreapp3.1\TH-triển-khai-interface.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\bin\Debug\netcoreapp3.1\TH-triển-khai-interface.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\bin\Debug\netcoreapp3.1\TH-triển-khai-interface.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\bin\Debug\netcoreapp3.1\TH-triển-khai-interface.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\bin\Debug\netcoreapp3.1\TH-triển-khai-interface.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\obj\Debug\netcoreapp3.1\TH-triển-khai-interface.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\obj\Debug\netcoreapp3.1\TH-triển-khai-interface.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\obj\Debug\netcoreapp3.1\TH-triển-khai-interface.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\obj\Debug\netcoreapp3.1\TH-triển-khai-interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\obj\Debug\netcoreapp3.1\TH-triển-khai-interface.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\obj\Debug\netcoreapp3.1\TH-triển-khai-interface.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-triển-khai-interface\TH-triển-khai-interface\obj\Debug\netcoreapp3.1\TH-triển-khai-interface.genruntimeconfig.cache

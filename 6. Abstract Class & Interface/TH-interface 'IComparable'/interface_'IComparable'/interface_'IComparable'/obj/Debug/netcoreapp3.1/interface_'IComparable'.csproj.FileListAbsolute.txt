@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\bin\Debug\netcoreapp3.1\interface_'IComparable'.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\bin\Debug\netcoreapp3.1\interface_'IComparable'.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\bin\Debug\netcoreapp3.1\interface_'IComparable'.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\bin\Debug\netcoreapp3.1\interface_'IComparable'.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\bin\Debug\netcoreapp3.1\interface_'IComparable'.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\bin\Debug\netcoreapp3.1\interface_'IComparable'.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\obj\Debug\netcoreapp3.1\interface_'IComparable'.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\obj\Debug\netcoreapp3.1\interface_'IComparable'.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\obj\Debug\netcoreapp3.1\interface_'IComparable'.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\obj\Debug\netcoreapp3.1\interface_'IComparable'.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\obj\Debug\netcoreapp3.1\interface_'IComparable'.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\obj\Debug\netcoreapp3.1\interface_'IComparable'.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-interface 'IComparable'\interface_'IComparable'\interface_'IComparable'\obj\Debug\netcoreapp3.1\interface_'IComparable'.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-fan\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-fan.genruntimeconfig.cache

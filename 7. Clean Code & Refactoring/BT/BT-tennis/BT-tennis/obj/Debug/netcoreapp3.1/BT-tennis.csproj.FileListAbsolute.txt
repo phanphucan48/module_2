@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\bin\Debug\netcoreapp3.1\BT-tennis.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\bin\Debug\netcoreapp3.1\BT-tennis.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\bin\Debug\netcoreapp3.1\BT-tennis.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\bin\Debug\netcoreapp3.1\BT-tennis.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\bin\Debug\netcoreapp3.1\BT-tennis.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\bin\Debug\netcoreapp3.1\BT-tennis.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\obj\Debug\netcoreapp3.1\BT-tennis.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\obj\Debug\netcoreapp3.1\BT-tennis.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\obj\Debug\netcoreapp3.1\BT-tennis.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\obj\Debug\netcoreapp3.1\BT-tennis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\obj\Debug\netcoreapp3.1\BT-tennis.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\obj\Debug\netcoreapp3.1\BT-tennis.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7. Clean Code & Refactoring\BT\BT-tennis\BT-tennis\obj\Debug\netcoreapp3.1\BT-tennis.genruntimeconfig.cache

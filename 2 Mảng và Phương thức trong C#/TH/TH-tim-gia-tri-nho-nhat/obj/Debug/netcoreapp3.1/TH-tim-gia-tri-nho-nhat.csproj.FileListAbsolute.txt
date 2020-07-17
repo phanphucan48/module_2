@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\bin\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-tim-gia-tri-nho-nhat\obj\Debug\netcoreapp3.1\TH-tim-gia-tri-nho-nhat.genruntimeconfig.cache

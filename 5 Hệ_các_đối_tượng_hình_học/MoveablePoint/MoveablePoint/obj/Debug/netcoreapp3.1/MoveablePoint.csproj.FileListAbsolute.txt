@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.genruntimeconfig.cache

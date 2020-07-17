@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\bin\Debug\netcoreapp3.1\interface_IColorable.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\bin\Debug\netcoreapp3.1\interface_IColorable.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\bin\Debug\netcoreapp3.1\interface_IColorable.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\bin\Debug\netcoreapp3.1\interface_IColorable.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\bin\Debug\netcoreapp3.1\interface_IColorable.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\bin\Debug\netcoreapp3.1\interface_IColorable.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\obj\Debug\netcoreapp3.1\interface_IColorable.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\obj\Debug\netcoreapp3.1\interface_IColorable.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\obj\Debug\netcoreapp3.1\interface_IColorable.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\obj\Debug\netcoreapp3.1\interface_IColorable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\obj\Debug\netcoreapp3.1\interface_IColorable.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\obj\Debug\netcoreapp3.1\interface_IColorable.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\7.interface_IColorable\interface_IColorable\interface_IColorable\obj\Debug\netcoreapp3.1\interface_IColorable.genruntimeconfig.cache

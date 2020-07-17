@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\bin\Debug\netcoreapp3.1\Poin2D.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\bin\Debug\netcoreapp3.1\Poin2D.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\bin\Debug\netcoreapp3.1\Poin2D.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\bin\Debug\netcoreapp3.1\Poin2D.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\bin\Debug\netcoreapp3.1\Poin2D.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\bin\Debug\netcoreapp3.1\Poin2D.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\obj\Debug\netcoreapp3.1\Poin2D.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\obj\Debug\netcoreapp3.1\Poin2D.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\obj\Debug\netcoreapp3.1\Poin2D.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\obj\Debug\netcoreapp3.1\Poin2D.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\obj\Debug\netcoreapp3.1\Poin2D.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\obj\Debug\netcoreapp3.1\Poin2D.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\5 Hệ_các_đối_tượng_hình_học\Poin2D\Poin2D\obj\Debug\netcoreapp3.1\Poin2D.genruntimeconfig.cache

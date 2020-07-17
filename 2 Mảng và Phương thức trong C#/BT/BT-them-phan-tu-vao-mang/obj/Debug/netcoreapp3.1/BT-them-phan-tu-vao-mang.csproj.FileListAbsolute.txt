@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\bin\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\bin\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\bin\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\bin\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\bin\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\bin\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\obj\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\obj\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\obj\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\obj\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\obj\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\obj\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\BT-them-phan-tu-vao-mang\obj\Debug\netcoreapp3.1\BT-them-phan-tu-vao-mang.genruntimeconfig.cache

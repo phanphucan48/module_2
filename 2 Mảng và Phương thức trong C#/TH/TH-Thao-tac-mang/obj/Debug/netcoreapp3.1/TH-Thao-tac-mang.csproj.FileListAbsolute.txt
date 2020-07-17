@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\bin\Debug\netcoreapp3.1\TH-Thao-tac-mang.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\bin\Debug\netcoreapp3.1\TH-Thao-tac-mang.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\bin\Debug\netcoreapp3.1\TH-Thao-tac-mang.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\bin\Debug\netcoreapp3.1\TH-Thao-tac-mang.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\bin\Debug\netcoreapp3.1\TH-Thao-tac-mang.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\bin\Debug\netcoreapp3.1\TH-Thao-tac-mang.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\obj\Debug\netcoreapp3.1\TH-Thao-tac-mang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\obj\Debug\netcoreapp3.1\TH-Thao-tac-mang.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\obj\Debug\netcoreapp3.1\TH-Thao-tac-mang.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\obj\Debug\netcoreapp3.1\TH-Thao-tac-mang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\obj\Debug\netcoreapp3.1\TH-Thao-tac-mang.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\obj\Debug\netcoreapp3.1\TH-Thao-tac-mang.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\TH-Thao-tac-mang\obj\Debug\netcoreapp3.1\TH-Thao-tac-mang.genruntimeconfig.cache

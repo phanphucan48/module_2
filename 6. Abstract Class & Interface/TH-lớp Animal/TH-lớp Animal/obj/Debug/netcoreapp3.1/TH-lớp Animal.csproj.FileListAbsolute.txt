@@ -1,0 +1,26 @@
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.exe
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.deps.json
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.runtimeconfig.json
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.dll
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.pdb
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.dll
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.pdb
+C:\Users\Admin\source\repos\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.genruntimeconfig.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\bin\Debug\netcoreapp3.1\TH-lớp Animal.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\6. Abstract Class & Interface\TH-lớp Animal\TH-lớp Animal\obj\Debug\netcoreapp3.1\TH-lớp Animal.genruntimeconfig.cache

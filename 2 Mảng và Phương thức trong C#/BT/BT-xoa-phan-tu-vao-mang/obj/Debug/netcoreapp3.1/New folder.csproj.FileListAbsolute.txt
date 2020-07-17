@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\bin\Debug\netcoreapp3.1\New folder.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\bin\Debug\netcoreapp3.1\New folder.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\bin\Debug\netcoreapp3.1\New folder.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\bin\Debug\netcoreapp3.1\New folder.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\bin\Debug\netcoreapp3.1\New folder.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\bin\Debug\netcoreapp3.1\New folder.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\obj\Debug\netcoreapp3.1\New folder.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\obj\Debug\netcoreapp3.1\New folder.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\obj\Debug\netcoreapp3.1\New folder.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\obj\Debug\netcoreapp3.1\New folder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\obj\Debug\netcoreapp3.1\New folder.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\obj\Debug\netcoreapp3.1\New folder.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\Mảng và Phương thức trong C#\BT\New folder\obj\Debug\netcoreapp3.1\New folder.genruntimeconfig.cache

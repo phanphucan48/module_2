@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\bin\Debug\netcoreapp3.1\AccessModefileDemo.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\bin\Debug\netcoreapp3.1\AccessModefileDemo.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\bin\Debug\netcoreapp3.1\AccessModefileDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\bin\Debug\netcoreapp3.1\AccessModefileDemo.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\bin\Debug\netcoreapp3.1\AccessModefileDemo.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\bin\Debug\netcoreapp3.1\AccessModefileDemo.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\obj\Debug\netcoreapp3.1\AccessModefileDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\obj\Debug\netcoreapp3.1\AccessModefileDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\obj\Debug\netcoreapp3.1\AccessModefileDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\obj\Debug\netcoreapp3.1\AccessModefileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\obj\Debug\netcoreapp3.1\AccessModefileDemo.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\obj\Debug\netcoreapp3.1\AccessModefileDemo.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\AccessModefileDemo\AccessModefileDemo\obj\Debug\netcoreapp3.1\AccessModefileDemo.genruntimeconfig.cache

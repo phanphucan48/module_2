@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\bin\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\3 OPP\BT\BT-xay-dung-lop-StopWatch\obj\Debug\netcoreapp3.1\BT-xay-dung-lop-StopWatch.genruntimeconfig.cache

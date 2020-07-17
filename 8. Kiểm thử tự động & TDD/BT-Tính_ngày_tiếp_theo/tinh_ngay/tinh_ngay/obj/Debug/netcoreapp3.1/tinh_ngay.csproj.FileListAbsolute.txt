@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\obj\Debug\netcoreapp3.1\tinh_ngay.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\obj\Debug\netcoreapp3.1\tinh_ngay.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\obj\Debug\netcoreapp3.1\tinh_ngay.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\obj\Debug\netcoreapp3.1\tinh_ngay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\bin\Debug\netcoreapp3.1\tinh_ngay.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\bin\Debug\netcoreapp3.1\tinh_ngay.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\bin\Debug\netcoreapp3.1\tinh_ngay.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\bin\Debug\netcoreapp3.1\tinh_ngay.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\bin\Debug\netcoreapp3.1\tinh_ngay.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\bin\Debug\netcoreapp3.1\tinh_ngay.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\obj\Debug\netcoreapp3.1\tinh_ngay.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\obj\Debug\netcoreapp3.1\tinh_ngay.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\8. Kiểm thử tự động & TDD\BT-Tính_ngày_tiếp_theo\tinh_ngay\tinh_ngay\obj\Debug\netcoreapp3.1\tinh_ngay.genruntimeconfig.cache
