@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\bin\Debug\netcoreapp3.1\Baitap1.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran\matran\matran\obj\Debug\netcoreapp3.1\Baitap1.genruntimeconfig.cache

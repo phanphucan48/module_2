@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\bin\Debug\netcoreapp3.1\Matran3.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\bin\Debug\netcoreapp3.1\Matran3.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\bin\Debug\netcoreapp3.1\Matran3.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\bin\Debug\netcoreapp3.1\Matran3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\bin\Debug\netcoreapp3.1\Matran3.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\bin\Debug\netcoreapp3.1\Matran3.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\obj\Debug\netcoreapp3.1\Matran3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\obj\Debug\netcoreapp3.1\Matran3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\obj\Debug\netcoreapp3.1\Matran3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\obj\Debug\netcoreapp3.1\Matran3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\obj\Debug\netcoreapp3.1\Matran3.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\obj\Debug\netcoreapp3.1\Matran3.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\Matran3\Matran3\obj\Debug\netcoreapp3.1\Matran3.genruntimeconfig.cache

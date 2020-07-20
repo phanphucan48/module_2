@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\bin\Debug\netcoreapp3.1\Matrandaonguoc.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\bin\Debug\netcoreapp3.1\Matrandaonguoc.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\bin\Debug\netcoreapp3.1\Matrandaonguoc.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\bin\Debug\netcoreapp3.1\Matrandaonguoc.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\bin\Debug\netcoreapp3.1\Matrandaonguoc.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\bin\Debug\netcoreapp3.1\Matrandaonguoc.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\obj\Debug\netcoreapp3.1\Matrandaonguoc.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\obj\Debug\netcoreapp3.1\Matrandaonguoc.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\obj\Debug\netcoreapp3.1\Matrandaonguoc.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\obj\Debug\netcoreapp3.1\Matrandaonguoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\obj\Debug\netcoreapp3.1\Matrandaonguoc.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\obj\Debug\netcoreapp3.1\Matrandaonguoc.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module 2 - Bài tập Mảng và Phương thức\matran3\matradaonguoc\Matradaonguoc\Matradaonguoc\obj\Debug\netcoreapp3.1\Matrandaonguoc.genruntimeconfig.cache
