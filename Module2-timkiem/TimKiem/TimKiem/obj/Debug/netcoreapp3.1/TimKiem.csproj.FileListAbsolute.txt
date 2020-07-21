@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\bin\Debug\netcoreapp3.1\TimKiem.exe
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\bin\Debug\netcoreapp3.1\TimKiem.deps.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\bin\Debug\netcoreapp3.1\TimKiem.runtimeconfig.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\bin\Debug\netcoreapp3.1\TimKiem.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\bin\Debug\netcoreapp3.1\TimKiem.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\bin\Debug\netcoreapp3.1\TimKiem.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\obj\Debug\netcoreapp3.1\TimKiem.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\obj\Debug\netcoreapp3.1\TimKiem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\obj\Debug\netcoreapp3.1\TimKiem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\obj\Debug\netcoreapp3.1\TimKiem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\obj\Debug\netcoreapp3.1\TimKiem.dll
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\obj\Debug\netcoreapp3.1\TimKiem.pdb
+C:\Users\Admin\Desktop\chứng chỉ\APC\C#\Module2\Module2-timkiem\TimKiem\TimKiem\obj\Debug\netcoreapp3.1\TimKiem.genruntimeconfig.cache
