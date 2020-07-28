@@ -1,0 +1,7 @@
+tong gia tri ma tran: 37
+so luong so nguyen to trong ma tran: 7
+so luong so le trong ma tran: 5
+tổng đường biên : 43
+6	9	12	15	
+9	12	6	12	
+12	9	6	3	

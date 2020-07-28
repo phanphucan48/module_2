@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Module2-File\Module2-File\bin\Debug\netcoreapp3.1\Module2-File.exe
+C:\Users\Admin\source\repos\Module2-File\Module2-File\bin\Debug\netcoreapp3.1\Module2-File.deps.json
+C:\Users\Admin\source\repos\Module2-File\Module2-File\bin\Debug\netcoreapp3.1\Module2-File.runtimeconfig.json
+C:\Users\Admin\source\repos\Module2-File\Module2-File\bin\Debug\netcoreapp3.1\Module2-File.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Module2-File\Module2-File\bin\Debug\netcoreapp3.1\Module2-File.dll
+C:\Users\Admin\source\repos\Module2-File\Module2-File\bin\Debug\netcoreapp3.1\Module2-File.pdb
+C:\Users\Admin\source\repos\Module2-File\Module2-File\obj\Debug\netcoreapp3.1\Module2-File.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Module2-File\Module2-File\obj\Debug\netcoreapp3.1\Module2-File.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Module2-File\Module2-File\obj\Debug\netcoreapp3.1\Module2-File.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Module2-File\Module2-File\obj\Debug\netcoreapp3.1\Module2-File.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Module2-File\Module2-File\obj\Debug\netcoreapp3.1\Module2-File.dll
+C:\Users\Admin\source\repos\Module2-File\Module2-File\obj\Debug\netcoreapp3.1\Module2-File.pdb
+C:\Users\Admin\source\repos\Module2-File\Module2-File\obj\Debug\netcoreapp3.1\Module2-File.genruntimeconfig.cache
